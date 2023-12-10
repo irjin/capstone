@@ -1,20 +1,14 @@
-# DSC 180A Project (Section B09)
+# DSC Capstone (Section B09): Quarter 1 Project
 
-In a rapidly evolving information landscape, widespread misinformation and disinformation present a significant challenge as the general public navigates through online media sources. To address this problem, this project aims to use transcribed textual features to categorize misleading information on a varying scale. The dataset used in this project was scrapped from PolitiFact and was cleaned to include the title, article, and summary. Nine machine learning classifiers were used, resulting in a final accuracy of 0.5369.  
+In a rapidly evolving information landscape, widespread misinformation and disinformation present a significant challenge as the general public navigates through online media sources. To address this problem, this project aims to use transcribed textual features to categorize misleading information on a varying scale. The dataset used in this project was scrapped from PolitiFact and was cleaned to include the title, article, and summary. 
 
 Keywords: misinformation, disinformation, machine learning
 
 ## Getting Started
 1. Clone the repository.
 
-2. Download the required libraries.
-```bash
-pip install pandas
-pip install numpy
-pip install scikit-learn
-pip install nltk
-pip install imblearn
-```
+2. Download the required libraries. Please see requirements.txt. 
+
 3. Run the notebook from top to bottom. 
 
 ## Features
