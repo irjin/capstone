@@ -1,0 +1,19 @@
+### Download Required Packages
+
+pip install pandas
+pip install numpy
+pip install scikit-learn
+pip install nltk
+pip install imblearn
+
+### Version of packages
+
+pandas == 1.5.3
+numpy == 1.24.3
+scikit-learn == 1.2.2
+nltk == 3.8.1
+imblearn == 0.10.1
+
+### Python version
+
+python > 3.11.4
