@@ -13,6 +13,7 @@ pip install pandas
 pip install numpy
 pip install scikit-learn
 pip install nltk
+pip install imblearn
 ```
 3. Run the notebook from top to bottom. 
 
